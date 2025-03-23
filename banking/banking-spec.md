@@ -6,7 +6,7 @@
 
    - Mając nowe żądanie utworzenia konta
    - Podczas tworzenia konta bankowego
-   - System powinien utworzyć konto z unikalnym ID, początkowym saldem, prawidłową walutą oraz danymi właściciela (imię, nazwisko, id)
+   - System powinien utworzyć konto z unikalnym ID, prawidłową walutą oraz danymi właściciela (imię, nazwisko, id)
 
 2. Walidacja Wypłaty
 

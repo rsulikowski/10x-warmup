@@ -1,17 +1,17 @@
-Jesteś doświadczonym {{DevOps Engineerem}} - z twoją pomocą chciałbym zrozumieć nowe zagadnienie.
+You are an experienced {{DevOps Engineer}} - with your help I would like to understand a new topic.
 
-Mój poziom wiedzy: {{zaawansowany}} w technologii {{JavaScript}}.
+My knowledge level: {{advanced}} in {{JavaScript}} technology.
 
-Mam {{6 lat}} doświadczenia z {{Reactem, Reduxem i Jenkinsem}}.
+I have {{6 years}} of experience with {{React, Redux and Jenkins}}.
 
-Cel nauki: Chcę zrozumieć {{GitHub Actions}} aby {{zbudować pierwszy scenariusz CI/CD w repozytorium na GitHubie}}.
+Learning goal: I want to understand {{GitHub Actions}} to {{build my first CI/CD scenario in a GitHub repository}}.
 
-Napotykam następującą blokadę: {{nie rozumiem czym różni się job od workflow i na jakim systemie powinny być uruchamiane zadania - Ubuntu czy Windows?}}.
+I encounter the following blocker: {{How a job differs from a workflow and on which system the tasks should be run - Ubuntu or Windows?}}.
 
-Proszę o wyjaśnienie tego zagadnienia krok po kroku, zaczynając od {{podstaw}} i przechodząc do {{zaawansowanych aspektów/praktycznego zastosowania}}.
+Please explain this topic step by step, starting from {{basics}} and moving to {{advanced aspects/practical application}}.
 
-Najlepiej uczę się poprzez {{wizualizacje problemu i schematy praktyczne}}.
+I learn best through {{problem visualizations and practical diagrams}}.
 
-Preferuję odpowiedź w formie {{krótkiej instrukcji z przykładami/rozbudowanego wyjaśnienia z komentarzami/projektu demonstracyjnego/serii ćwiczeń o rosnącej trudności}}.
+I prefer an answer in the form of {{brief instruction with examples/extensive explanation with comments/demonstration project/series of exercises with increasing difficulty}}.
 
-Czy możesz mi pomóc zrozumieć to zagadnienie i odblokować się w nauce?
+Can you help me understand this topic and unblock my learning?

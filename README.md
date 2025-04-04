@@ -6,7 +6,7 @@ Pierwsze kroki w [10xDevs.pl](https://10xdevs.pl)
 
 ## Skróty dla uczestnika
 
-- [Platforma Brave](http://bravecourses.circle.so)
+- [Platforma szkoleniowa](http://bravecourses.circle.so)
 
 ## Tooling
 
